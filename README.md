@@ -29,7 +29,7 @@ angels and draw the axes accurately.
 - Stacking points into array
 - Centering the points at index 99
 - Choosing the distance between 2 random points and divide all points by that distance
-- Splitting the dat and importing diffrent models
+- Splitting the data and importing diffrent models
 - Cross Validtaion for the three angels to know which model is the best between SVR & XGBRegressor
 - Fitting the best models and observing their MAE
 - Comparison between Orgininal Axis & Predicted Axis
